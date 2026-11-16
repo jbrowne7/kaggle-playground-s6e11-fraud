@@ -7,3 +7,4 @@ kaggle.json
 .ipynb_checkpoints/
 __pycache__/
 models/
+.venv/
