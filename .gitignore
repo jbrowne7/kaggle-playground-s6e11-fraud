@@ -1,0 +1,9 @@
+data/
+submissions/
+*.csv
+*.parquet
+*.zip
+kaggle.json
+.ipynb_checkpoints/
+__pycache__/
+models/
